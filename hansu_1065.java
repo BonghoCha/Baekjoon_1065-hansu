@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 import java.util.*;
 
-public class test {
+public class hansu_1065 {
 	public static void function(int N) {
 		int result = 0;
 		
